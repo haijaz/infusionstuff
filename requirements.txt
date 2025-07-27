@@ -1,0 +1,5 @@
+# Basic requirements for a simple Python web application using Flask.
+# Although a static site is recommended, this file is provided for future expansion.
+
+Flask==3.0.3
+gunicorn==22.0.0
